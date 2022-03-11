@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kranthikumar-muske/MyTinyURL/static/css/main.073c9b0a.css",
-    "main.js": "/kranthikumar-muske/MyTinyURL/static/js/main.3465199d.js",
-    "static/js/787.f3c5b423.chunk.js": "/kranthikumar-muske/MyTinyURL/static/js/787.f3c5b423.chunk.js",
-    "index.html": "/kranthikumar-muske/MyTinyURL/index.html",
-    "main.073c9b0a.css.map": "/kranthikumar-muske/MyTinyURL/static/css/main.073c9b0a.css.map",
-    "main.3465199d.js.map": "/kranthikumar-muske/MyTinyURL/static/js/main.3465199d.js.map",
-    "787.f3c5b423.chunk.js.map": "/kranthikumar-muske/MyTinyURL/static/js/787.f3c5b423.chunk.js.map"
+    "main.css": "/MyTinyURL/static/css/main.073c9b0a.css",
+    "main.js": "/MyTinyURL/static/js/main.dac2d7b0.js",
+    "static/js/787.f3c5b423.chunk.js": "/MyTinyURL/static/js/787.f3c5b423.chunk.js",
+    "index.html": "/MyTinyURL/index.html",
+    "main.073c9b0a.css.map": "/MyTinyURL/static/css/main.073c9b0a.css.map",
+    "main.dac2d7b0.js.map": "/MyTinyURL/static/js/main.dac2d7b0.js.map",
+    "787.f3c5b423.chunk.js.map": "/MyTinyURL/static/js/787.f3c5b423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3465199d.js"
+    "static/js/main.dac2d7b0.js"
   ]
 }
